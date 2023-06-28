@@ -57,13 +57,13 @@ def server_side_credentials():
 
     return ip, port
 
-
+# Utils
 NAME = "Daniel"
-home_ip = '192.168.1.218'
-class_ip = '10.9.9.167'
 
+# Own address
 ADDRESS = list(server_side_credentials())
-SERVER_ADDRESS = (class_ip, ADDRESS[1])
+
+# Class server
 CONNECTIONS_SERVER = Api.CONNECTIONS_SERVER
 
 
