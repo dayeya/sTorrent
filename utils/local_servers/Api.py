@@ -12,7 +12,7 @@ from socket import *
     
 '''
 
-CONNECTIONS_SERVER = ('10.9.9.189', 60000)
+CONNECTIONS_SERVER = ('---ENTER CLASS SERVER IP---', 60000)
 
 
 class Methods_API:
