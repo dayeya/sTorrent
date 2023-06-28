@@ -14,9 +14,8 @@ import sqlite3 as sl  # - Saving peers and admins in the DB
 from threading import Thread  # - Allow multi-handling.
 
 # Important utils
-home_ip = '192.168.1.218'
-class_ip = '10.9.9.167'
-ADDRESS = (class_ip, 60000)
+home_ip = '---ENTER YOUR IP---'
+ADDRESS = (home_ip, 60000)
 
 
 class Server:
