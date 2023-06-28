@@ -59,12 +59,9 @@ def admin_side_credentials():
 
 # Important utils.
 NAME = 'Daniel'
-home_ip = '192.168.1.218'
-class_ip = '10.9.9.167'
 
 # Addresses.
 ADDRESS = admin_side_credentials()
-ADDRESS = (class_ip, ADDRESS[1])
 
 # Class server.
 CONNECTIONS_SERVER = Api.CONNECTIONS_SERVER
