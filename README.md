@@ -30,6 +30,6 @@ python <file_name>.py
 ## Alerts
 
 This project will be modified in the near future, I encourage you to help the community and even work on it yourself!
-Feel free to use this project as inspiration.
+feel free to use this project as inspiration.
 
 
