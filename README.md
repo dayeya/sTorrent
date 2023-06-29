@@ -13,3 +13,4 @@ pip3 install -r requirements.txt
 ```
 
 ## Simple visualization
+![GUI_TORRENT](https://github.com/dayeya/Simple_Torrent_Copy/assets/129618322/fc051c86-cb8e-4274-8f93-0160f1f8d53d)
