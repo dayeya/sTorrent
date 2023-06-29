@@ -12,6 +12,4 @@ Open CMD and run:
 pip3 install -r requirements.txt
 ```
 
-## GUI
-
-The GUI was created with TKINTER
+## Simple visualization
