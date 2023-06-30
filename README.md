@@ -6,7 +6,7 @@ This simple Torrent Python project provides a file-sharing system across the net
 After connecting to the LAN each Peer can upload and download files in the network.
 
 ## Installation
-- Install the dependencies for this project by cloning `requirements.txt`.
+- Install the dependencies for this project by cloning `requirements.txt`
 - Open CMD and run 
 ```shell
 pip3 install -r requirements.txt
